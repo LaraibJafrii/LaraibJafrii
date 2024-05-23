@@ -13,7 +13,7 @@ Host/Organizer of Data Science Meetups
 - [Time Series Forecasting](https://your-time-series-forecasting-link.com)
 - [NLP Sentiment Analysis](https://your-nlp-sentiment-analysis-link.com)
 
-💬<code>Ping</code> me about: <strong>data science, machine learning, python development, statistical analysis, data visualization etc...</strong>
+💬 <code>Ping</code> me about: <strong>data science, machine learning, python development, statistical analysis, data visualization etc...</strong>
 
 ### 📫 How to Reach Me:
 - Email: [laraib.jafrii@gmail.com](mailto:laraib.jafrii@gmail.com)
