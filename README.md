@@ -9,8 +9,7 @@ Host/Organizer of Data Science Meetups
 - 🌍 I'm mostly active within the Data Science and Machine Learning communities.
 
 ### 💅 Projects I've Worked On:
-- [Predictive Analytics Project](https://your-predictive-analytics-project-link.com)
-- [Customer Segmentation using K-Means](https://your-customer-segmentation-link.com)
+- [Sentiment Analysis Project](https://your-predictive-analytics-project-link.com)
 - [Time Series Forecasting](https://your-time-series-forecasting-link.com)
 - [NLP Sentiment Analysis](https://your-nlp-sentiment-analysis-link.com)
 
