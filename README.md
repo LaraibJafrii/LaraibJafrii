@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-### A Data Scientist by day ☼ and a Software Developer by night ☾
+### A Data Scientist by day ☼ and a Trader by night ☾
 
 Busy Collecting Data <br>
 Host/Organizer of Data Science Meetups
