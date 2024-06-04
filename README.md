@@ -1,17 +1,17 @@
 ## Hello there 👋
 
-### A Data Scientist by day ☼ and a Trader by night ☾
+### A Data Scientist by day ☼ and a Quant by night ☾
 
-Busy Collecting Data <br>
-Host/Organizer of Data Science Meetups
+Reading with Data <br>
+Busy Analyzing the Financial Markets
 
-- ⚙️ I Use Daily: <code>Python</code>, <code>Tensorflow</code>, <code>Flask</code>, <code>R</code>, <code>Git</code>, <code>SQL</code> 
+- ⚙️ I Use Daily: <code>Python</code>, <code>Pandas</code>, <code>Seaborne</code>, <code>R</code>, <code>Anaconda</code>, <code>Numpy</code> 
 - 🌍 I'm mostly active within the Data Science and Machine Learning communities.
 
 ### 💅 Projects I've Worked On:
-- [Sentiment Analysis Project](https://your-predictive-analytics-project-link.com)
-- [Time Series Forecasting](https://your-time-series-forecasting-link.com)
-- [NLP Sentiment Analysis](https://your-nlp-sentiment-analysis-link.com)
+- [ An Equal-Weight S&P 500 Index Fund](https://your-predictive-analytics-project-link.com)
+- [Quantitative Momentum Investing Strategy](https://your-time-series-forecasting-link.com)
+- [Sentiment Analysis](https://your-nlp-sentiment-analysis-link.com)
 
 💬 <code>Ping</code> me about: <strong>data science, machine learning, python development, statistical analysis, data visualization etc...</strong>
 
